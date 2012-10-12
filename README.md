@@ -19,7 +19,7 @@ public function submitScore(score:Number):void
    var params={username:user.name, score:score}
    scoreoidEnc.sendData("https://www.scoreoid.com/api/createScore",params)
 }
-
+```
 ##Scoreoid
 More info at - <a href="http://wiki.scoreoid.net/open-source-examples/scoreoid-as3-encryption-wrapper/" target="_blank">Scoreoid Wiki</a>
 Scoreoid - <a href="http://www.scoreoid.net/" target="_blank">Scoreoid</a> 
