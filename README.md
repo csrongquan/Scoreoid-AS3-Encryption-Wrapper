@@ -1,4 +1,4 @@
-#Scoreoid-AS3-Encryption-Wrapper
+#Scoreoid AS3 Encryption Wrapper
 
 A simple open source AS3 Scoreoid encryption wrapper done by Alex Bogartz from <a href="http://www.makaimedia.com/" title="Makai Media Inc" target="_blank">Makai Media Inc</a>.
 
@@ -21,5 +21,5 @@ public function submitScore(score:Number):void
 }
 ```
 ##Scoreoid
-More info at - <a href="http://wiki.scoreoid.net/open-source-examples/scoreoid-as3-encryption-wrapper/" target="_blank">Scoreoid Wiki</a>
-Scoreoid - <a href="http://www.scoreoid.net/" target="_blank">Scoreoid</a> 
+More info at - <a href="http://wiki.scoreoid.net/open-source-examples/scoreoid-as3-encryption-wrapper/" target="_blank">Scoreoid Wiki</a>.
+Scoreoid - <a href="http://www.scoreoid.net/" target="_blank">Scoreoid</a>. 
