@@ -21,6 +21,5 @@ public function submitScore(score:Number):void
 }
 ```
 ##Scoreoid
-More info at - <a href="http://wiki.scoreoid.net/open-source-examples/scoreoid-as3-encryption-wrapper/" target="_blank">Scoreoid Wiki</a>.
-
+More info at - <a href="http://wiki.scoreoid.net/open-source-examples/scoreoid-as3-encryption-wrapper/" target="_blank">Scoreoid Wiki</a>.  
 Scoreoid - <a href="http://www.scoreoid.net/" target="_blank">Scoreoid</a>. 
