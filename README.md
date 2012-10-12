@@ -5,7 +5,7 @@ A simple open source AS3 Scoreoid encryption wrapper done by Alex Bogartz from <
 ##Usage
 Big thanks to Alex Bogartz for releasing this example. Usage example also located at the class comments.
 
-public function getGame():void
+```public function getGame():void
 {
     var scoreoidEnc:ScoreoidEncryption=new ScoreoidEncryption(apikey,gameID,key)
     var params={limit:3, order_by:"score",order:"desc"}
