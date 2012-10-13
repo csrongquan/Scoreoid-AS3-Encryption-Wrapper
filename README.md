@@ -20,6 +20,13 @@ public function submitScore(score:Number):void
    scoreoidEnc.sendData("https://www.scoreoid.com/api/createScore",params)
 }
 ```
-##Scoreoid
-More info at - <a href="http://wiki.scoreoid.net/open-source-examples/scoreoid-as3-encryption-wrapper/" target="_blank">Scoreoid Wiki</a>.  
-Scoreoid - <a href="http://www.scoreoid.net/" target="_blank">Scoreoid</a>. 
+##Scoreoid Links
+<a href="http://wiki.scoreoid.net/" target="_blank">Scoreoid Wiki</a>.  
+<a href="http://wiki.scoreoid.net/category/user-guide/" target="_blank">User Guide</a>.  
+<a href="http://wiki.scoreoid.net/category/api/" target="_blank">Scoreoid API</a>.  
+<a href="http://wiki.scoreoid.net/category/open-source-examples/" target="_blank">Open Source Examples</a>.  
+<a href="http://wiki.scoreoid.net/category/3rd-party-tutorials/" target="_blank">Tutorials</a>.    
+<a href="http://www.scoreoid.net/" target="_blank">Scoreoid  Website</a>.  
+<a href="http://www.scoreoid.net/support/" target="_blank">Scoreoid  Support</a>.  
+<a href="https://trello.com/board/scoreoid-public-development-roadmap/4f97c80855ed960f672d7f88" target="_blank">Public Roadmap on Trello</a>.  
+<a href="http://www.scoreoid.net/category/featured-developers/" target="_blank">Developer Interviews</a>.
